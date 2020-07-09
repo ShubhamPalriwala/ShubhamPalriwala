@@ -1,4 +1,4 @@
-<img src=./me.jpg>
+<img src=https://github.com/ShubhamPalriwala/ShubhamPalriwala/blob/master/me.jpg>
 
 ##  🔭 I’m currently studying for my CEH certification
 ### ⚡ I might take a while to respond during:
