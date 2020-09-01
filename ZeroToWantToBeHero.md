@@ -1,6 +1,6 @@
 Okay so to all those (tbh very few) who ask me what courses I did or how did I start so here is the list:
 
-### First and foremost: [IEEE-VIT](https://www.ieeevit.org) <br/>
+### First and foremost: [IEEE-VIT](https://ieeevit.org/) <br/>
 Whatever skills I have it's all due to my seniors and colleagues at IEEE-VIT.
 
 ## Web Dev
