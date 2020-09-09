@@ -44,6 +44,9 @@ Whatever skills I have it's all due to my seniors and colleagues at IEEE-VIT.
 ## Competitive Coding
 [CS - Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A)*
 
+## Cryptography
+[Intro to Crypto by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+
 ## And a lot of StackOverflow
 
 *I am still doing these courses.
