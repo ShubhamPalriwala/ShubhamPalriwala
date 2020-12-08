@@ -16,8 +16,9 @@ Whatever skills I have it's all due to my seniors and colleagues at IEEE-VIT.
 
 ## Cyber Security
 
-[EC Council iClass - Certified Ethical Hacker](https://iclass.eccouncil.org/)*
+[EC Council iClass - Certified Ethical Hacker](https://iclass.eccouncil.org/)
 <br/>
+[CEH v10 Complete Video Course YouTube](https://www.youtube.com/watch?v=Kas94DA1RCU&feature=youtu.be)*<br/>
 [Learn Ethical Hacking from Scratch by Zaid Sabih](https://www.udemy.com/course/learn-ethical-hacking-from-scratch/learn/)
 <br/>
 [Practical Ethical Hacking - The Complete Course by Heath Adams](https://www.udemy.com/course/practical-ethical-hacking/learn/)*
