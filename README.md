@@ -1,6 +1,6 @@
 <img align="left" width="340" src="https://i.ibb.co/xmsKRTs/motherhubbertocat-removebg-preview.png"> <samp> Hey! <br>
 
-#### I love:
+#### I love
   :soccer: Manchester United matchdays<br>
   :money_with_wings: a major Drop in the NSE<br>
   :car: Formula 1 race weekends<br>
